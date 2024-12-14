@@ -79,11 +79,6 @@ As a **Break Through Tech AI Fellow**, I’ve strengthened my ML foundations thr
 
 ---
 
-### 💻 GitHub Stats
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-Basil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Basil&layout=compact&theme=radical)
-
----
 
 ### 🌱 What I’m Currently Learning / Working On
 - Deepening understanding of ensemble methods and neural networks for fraud detection.
